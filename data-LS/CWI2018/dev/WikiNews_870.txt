@@ -1,0 +1,870 @@
+Initially, all three were considered victims, but the status of one has been changed to suspect.	Initially	1
+Initially, all three were considered victims, but the status of one has been changed to suspect.	considered	1
+Initially, all three were considered victims, but the status of one has been changed to suspect.	victims	1
+Initially, all three were considered victims, but the status of one has been changed to suspect.	status	1
+Initially, all three were considered victims, but the status of one has been changed to suspect.	changed	1
+Initially, all three were considered victims, but the status of one has been changed to suspect.	suspect	1
+The other two, a man and a woman, subsequently died from their wounds.	subsequently	1
+The other two, a man and a woman, subsequently died from their wounds.	man	0
+The other two, a man and a woman, subsequently died from their wounds.	woman	0
+The other two, a man and a woman, subsequently died from their wounds.	wounds	1
+The other two, a man and a woman, subsequently died from their wounds.	died	0
+Police have said CCTV is helping in the investigation.	CCTV	1
+Police have said CCTV is helping in the investigation.	Police	0
+Police have said CCTV is helping in the investigation.	investigation	1
+Police have said CCTV is helping in the investigation.	helping	0
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	Local newspaper Vestmanlands Läns Tidning (VLT	1
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	Local	0
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	newspaper	0
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	Vestmanlands Läns Tidning	0
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	Vestmanlands	0
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	reportedly	1
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	Läns	0
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	Tidning	0
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	VLT	0
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	footage	1
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	posted	0
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	suspects	1
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	tackled	1
+Local newspaper Vestmanlands Läns Tidning (VLT) has reportedly posted footage of one of the suspects being tackled by police.	police	0
+VLT has further claimed to have identified the two victims as a mother and son, aged 55 and 28 respectively.	claimed	1
+VLT has further claimed to have identified the two victims as a mother and son, aged 55 and 28 respectively.	VLT	0
+VLT has further claimed to have identified the two victims as a mother and son, aged 55 and 28 respectively.	identified	1
+VLT has further claimed to have identified the two victims as a mother and son, aged 55 and 28 respectively.	respectively	1
+VLT has further claimed to have identified the two victims as a mother and son, aged 55 and 28 respectively.	victims	0
+VLT has further claimed to have identified the two victims as a mother and son, aged 55 and 28 respectively.	mother	0
+VLT has further claimed to have identified the two victims as a mother and son, aged 55 and 28 respectively.	son	0
+VLT has further claimed to have identified the two victims as a mother and son, aged 55 and 28 respectively.	aged	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	victims	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	According	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	paper	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	residents	1
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	local	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	connection	1
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	Västerås	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	vacationing	1
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	spokesperson	1
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	time	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	attack	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	police	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	an act of madness	1
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	called	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	act of madness	1
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	act	0
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	madness	1
+According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).	sv	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	worst	1
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	Mattias	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	working	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	day	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	life	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	sv	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	Mattias Johansson	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	Västerås	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	Johansson	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	store	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	manager	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	IKEA	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	Sveriges	0
+"This is the worst working day of my life"((sv)), said Mattias Johansson, the store manager of IKEA in Västerås, to Sveriges Television.	Television	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	Law and Justice Party	1
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	week	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	Law	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	removed	1
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	Justice	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	Party	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	coming	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	power	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	Poland	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	web	1
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	featuring	1
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	pages	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	investigation	1
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	results	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	Smolensk	1
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	Smolensk air disaster	1
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	air	0
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	disaster	1
+Within a week of the Law and Justice Party coming to power in Poland, it removed web pages featuring the results of an investigation into the Smolensk air disaster in Russia in 2010.	Russia	0
+The cause of the crash, which killed dignitaries including Polish President Lech Kaczynski, is disputed.	dignitaries	1
+The cause of the crash, which killed dignitaries including Polish President Lech Kaczynski, is disputed.	crash	0
+The cause of the crash, which killed dignitaries including Polish President Lech Kaczynski, is disputed.	killed	0
+The cause of the crash, which killed dignitaries including Polish President Lech Kaczynski, is disputed.	Kaczynski	1
+The cause of the crash, which killed dignitaries including Polish President Lech Kaczynski, is disputed.	including	0
+The cause of the crash, which killed dignitaries including Polish President Lech Kaczynski, is disputed.	Polish	0
+The cause of the crash, which killed dignitaries including Polish President Lech Kaczynski, is disputed.	President	0
+The cause of the crash, which killed dignitaries including Polish President Lech Kaczynski, is disputed.	Lech	0
+The cause of the crash, which killed dignitaries including Polish President Lech Kaczynski, is disputed.	disputed	1
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	probe	1
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	Polish	0
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	concluded	1
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	pilots	0
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	Polish	0
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	determination	1
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	put	0
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	safety	0
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	dense	1
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	passengers	0
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	dense fog	1
+A Polish probe concluded the Polish pilots put safety second in their determination to get their passengers through dense fog.	fog	0
+It also placed blame on Russian controllers for failing to divert the aircraft.	blame	1
+It also placed blame on Russian controllers for failing to divert the aircraft.	Russian controllers	1
+It also placed blame on Russian controllers for failing to divert the aircraft.	Russian	0
+It also placed blame on Russian controllers for failing to divert the aircraft.	failing	1
+It also placed blame on Russian controllers for failing to divert the aircraft.	controllers	0
+It also placed blame on Russian controllers for failing to divert the aircraft.	failing to divert	1
+It also placed blame on Russian controllers for failing to divert the aircraft.	divert	1
+It also placed blame on Russian controllers for failing to divert the aircraft.	aircraft	0
+Russian investigators blamed the pilots alone.	investigators	1
+Russian investigators blamed the pilots alone.	Russian	0
+Russian investigators blamed the pilots alone.	blamed	1
+Russian investigators blamed the pilots alone.	pilots	1
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	high-profile	1
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	flight	0
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	carrying	0
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	high-profile political figures	1
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	political	1
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	ceremony	1
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	figures	0
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	attend	0
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	commemorating	1
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	anniversary	0
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	Katyn	0
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	massacre	1
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	civilians	1
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	thousands	0
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	Polish	0
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	prisoners	0
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	war	0
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	Soviets	1
+The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.	killed	0
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	Fed	1
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	increased	1
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	interest rates	1
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	interest	0
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	recession	1
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	rates	0
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	rates	0
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	lowered	0
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	historically	1
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	historically low levels	1
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	low	0
+The Fed has not increased interest rates since 2006, and during the 2007-2009 recession, it lowered rates to historically low levels.	levels	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	slain	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	Swedish	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	knife	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	attack	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	Swedish IKEA furniture retailer	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	IKEA	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	furniture	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	furniture retailer	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	retailer	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	Västerås	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	store	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	front	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	IKEA	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	occurred	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	Sweden	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	attack	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	yesterday afternoon	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	people	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	killed	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	yesterday	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	seriously	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	afternoon	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	seriously injured	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	injured	1
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	Västerås	0
+Two slain in knife attack at Swedish IKEA furniture retailer The store front of the IKEA in Västerås, Sweden, where the attack occurred Two people were killed yesterday afternoon and another seriously injured in Västerås, Sweden.	Sweden	0
+The injured man is considered a suspect in the knife attack and was arrested in hospital.	considered	1
+The injured man is considered a suspect in the knife attack and was arrested in hospital.	injured	0
+The injured man is considered a suspect in the knife attack and was arrested in hospital.	man	0
+The injured man is considered a suspect in the knife attack and was arrested in hospital.	suspect	1
+The injured man is considered a suspect in the knife attack and was arrested in hospital.	knife	1
+The injured man is considered a suspect in the knife attack and was arrested in hospital.	arrested	1
+The injured man is considered a suspect in the knife attack and was arrested in hospital.	attack	0
+The injured man is considered a suspect in the knife attack and was arrested in hospital.	hospital	0
+Another man was arrested at the scene, which was an IKEA furniture retailer.	IKEA	1
+Another man was arrested at the scene, which was an IKEA furniture retailer.	man	0
+Another man was arrested at the scene, which was an IKEA furniture retailer.	arrested	0
+Another man was arrested at the scene, which was an IKEA furniture retailer.	scene	0
+Another man was arrested at the scene, which was an IKEA furniture retailer.	furniture retailer	1
+Another man was arrested at the scene, which was an IKEA furniture retailer.	furniture	0
+Another man was arrested at the scene, which was an IKEA furniture retailer.	retailer	1
+According to police, the two fatalities do not have any obvious connection to the suspects, but did know each other.	fatalities	1
+According to police, the two fatalities do not have any obvious connection to the suspects, but did know each other.	According	0
+According to police, the two fatalities do not have any obvious connection to the suspects, but did know each other.	police	0
+According to police, the two fatalities do not have any obvious connection to the suspects, but did know each other.	obvious	1
+According to police, the two fatalities do not have any obvious connection to the suspects, but did know each other.	obvious connection	1
+According to police, the two fatalities do not have any obvious connection to the suspects, but did know each other.	connection	0
+According to police, the two fatalities do not have any obvious connection to the suspects, but did know each other.	suspects	1
+The motive is, thus far, unknown.	motive	1
+The motive is, thus far, unknown.	thus far	1
+The motive is, thus far, unknown.	unknown	0
+Police were called to the scene at 13:00 local time and found three stab victims.	stab	1
+Police were called to the scene at 13:00 local time and found three stab victims.	Police	0
+Police were called to the scene at 13:00 local time and found three stab victims.	called	0
+Police were called to the scene at 13:00 local time and found three stab victims.	scene	0
+Police were called to the scene at 13:00 local time and found three stab victims.	local	0
+Police were called to the scene at 13:00 local time and found three stab victims.	time	0
+Police were called to the scene at 13:00 local time and found three stab victims.	found	0
+Police were called to the scene at 13:00 local time and found three stab victims.	stab victims	1
+Police were called to the scene at 13:00 local time and found three stab victims.	victims	1
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	probably	1
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	reducing	1
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	infecting	1
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	chance	0
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	infecting nestmates	1
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	nestmates	1
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	nest-mates	1
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	reduces	0
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	work	0
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	load	0
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	corpse	1
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	dragged	1
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	n't	0
+This is probably for reducing chance of infecting nestmates, but of course it also reduces the work load of their nest-mates, as their corpse doesn't have to be dragged out etc.	dragged out	1
+So as an answer to the question, I would find it unlikely that such a behaviour would evolve, but it's not known yet.	unlikely	1
+So as an answer to the question, I would find it unlikely that such a behaviour would evolve, but it's not known yet.	answer	0
+So as an answer to the question, I would find it unlikely that such a behaviour would evolve, but it's not known yet.	question	0
+So as an answer to the question, I would find it unlikely that such a behaviour would evolve, but it's not known yet.	find	0
+So as an answer to the question, I would find it unlikely that such a behaviour would evolve, but it's not known yet.	behaviour	1
+So as an answer to the question, I would find it unlikely that such a behaviour would evolve, but it's not known yet.	evolve	1
+So as an answer to the question, I would find it unlikely that such a behaviour would evolve, but it's not known yet.	's	0
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	avoided	1
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	Wikinews	0
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	Ants	0
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	generally	0
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	peroxide	1
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	circumstances	1
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	healthy	0
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	resistance	1
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	build	0
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	infection	1
+Wikinews: Ants generally avoided the peroxide if they were healthy, but in some circumstances might they try to build resistance against infection in advance?	advance	0
+NB: Who knows?	NB	0
+Also not known yet unfortunately.	unfortunately	1
+Also not known yet unfortunately.	Also	0
+That said, there is a very interesting study about resin collection in ants.	resin	1
+That said, there is a very interesting study about resin collection in ants.	interesting	0
+That said, there is a very interesting study about resin collection in ants.	study	0
+That said, there is a very interesting study about resin collection in ants.	resin collection	1
+That said, there is a very interesting study about resin collection in ants.	collection	1
+That said, there is a very interesting study about resin collection in ants.	ants	0
+Wood ants collect tree-resin, which has anti-microbial properties.	tree-resin	1
+Wood ants collect tree-resin, which has anti-microbial properties.	Wood	0
+Wood ants collect tree-resin, which has anti-microbial properties.	ants	0
+Wood ants collect tree-resin, which has anti-microbial properties.	collect	0
+Wood ants collect tree-resin, which has anti-microbial properties.	anti-microbial	1
+Wood ants collect tree-resin, which has anti-microbial properties.	anti-microbial properties	1
+Wood ants collect tree-resin, which has anti-microbial properties.	properties	0
+They collect this even if not infected, and when you infect them, they don't collect more of the resin than normal.	infected	0
+They collect this even if not infected, and when you infect them, they don't collect more of the resin than normal.	collect	0
+They collect this even if not infected, and when you infect them, they don't collect more of the resin than normal.	resin	1
+They collect this even if not infected, and when you infect them, they don't collect more of the resin than normal.	infect	0
+They collect this even if not infected, and when you infect them, they don't collect more of the resin than normal.	n't	0
+They collect this even if not infected, and when you infect them, they don't collect more of the resin than normal.	collect	0
+They collect this even if not infected, and when you infect them, they don't collect more of the resin than normal.	normal	0
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	impoverished	1
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	impoverished region	1
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	suffered	1
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	region	0
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	northeast	0
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	nation	0
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	severe	1
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	severe famine	1
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	famine	1
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	conflict	1
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	conflict interrupts	1
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	conflict interrupts agriculture	1
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	interrupts	1
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	interrupts agriculture	0
+The impoverished region, in the northeast of the nation, has suffered severe famine as conflict interrupts agriculture.	agriculture	1
+Farmers are unable to work owing to bombs on their land.	owing	1
+Farmers are unable to work owing to bombs on their land.	Farmers	0
+Farmers are unable to work owing to bombs on their land.	unable	0
+Farmers are unable to work owing to bombs on their land.	work	0
+Farmers are unable to work owing to bombs on their land.	owing to	0
+Farmers are unable to work owing to bombs on their land.	bombs	1
+Farmers are unable to work owing to bombs on their land.	land	0
+The Red Cross said volunteers were at the camp, home to thousands, to distribute food.	volunteers	1
+The Red Cross said volunteers were at the camp, home to thousands, to distribute food.	Red	0
+The Red Cross said volunteers were at the camp, home to thousands, to distribute food.	Cross	0
+The Red Cross said volunteers were at the camp, home to thousands, to distribute food.	distribute	1
+The Red Cross said volunteers were at the camp, home to thousands, to distribute food.	camp	0
+The Red Cross said volunteers were at the camp, home to thousands, to distribute food.	home	0
+The Red Cross said volunteers were at the camp, home to thousands, to distribute food.	thousands	0
+The Red Cross said volunteers were at the camp, home to thousands, to distribute food.	food	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	dispatched	1
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	military	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	Air	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	Force	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	remnants	1
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	deal	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	Boko Haram militant group	1
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	Boko	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	militant	1
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	Haram	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	claims	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	group	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	final push	1
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	final	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	final push against	0
+The military said the Air Force was dispatched to deal with "remnants" of the Boko Haram militant group, which it claims to be in a final push against.	push	0
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	operation	1
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	Major	0
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	General	0
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	Leo	0
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	Irabor	0
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	led	0
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	Unfortunately	1
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	strike	1
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	strike was conducted	0
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	conducted	1
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	civilians	1
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	turned	0
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	affected	1
+Major General Leo Irabor, who led the operation, said "Unfortunately, the strike was conducted but it turned out that other civilians were somewhere around the area and they were affected".	area	0
+Irabor said two soldiers were amongst the dead and others were wounded.	amongst	1
+Irabor said two soldiers were amongst the dead and others were wounded.	Irabor	0
+Irabor said two soldiers were amongst the dead and others were wounded.	soldiers	0
+Irabor said two soldiers were amongst the dead and others were wounded.	wounded	0
+Irabor said two soldiers were amongst the dead and others were wounded.	dead	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	spokesman	1
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	Military	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	disaster	1
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	General	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	Rabe	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	Abubakar	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	military	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	pain	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	operation	1
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	adding	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	military	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	occur	1
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	time	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	time	0
+Military spokesman General Rabe Abubakar said the military are "all in pain" after the disaster, adding "in a military operation such as this, from time to time these things do occur."	things	0
+This is not a Report which contains, for instance, state secrets."	contains	0
+This is not a Report which contains, for instance, state secrets."	Report	0
+This is not a Report which contains, for instance, state secrets."	instance	1
+This is not a Report which contains, for instance, state secrets."	secrets	0
+This is not a Report which contains, for instance, state secrets."	state	0
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	distance	1
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	spoke	0
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	ongoing	1
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	trial	1
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	prompting	1
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	remark	0
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	very considerable unease	1
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	considerable	1
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	considerable unease	1
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	unease	1
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	comfortable process	1
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	comfortable	0
+He also spoke of his distance from the ongoing trial, prompting him to remark of his "very considerable unease" and having to do "the best I could" — not "a comfortable process".	process	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	issues	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	Noting	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	complex	1
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	law	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	fact	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	novel	1
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	judgement	1
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	difficult	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	Mr	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	Justice	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	Green	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	hearing	1
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	notes	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	promised permission	1
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	case	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	promised	0
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	permission	1
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	appeal	1
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	granted	1
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	requested	1
+Noting "the issues of both law and fact are complex, novel and difficult" Mr Justice Green's judgement notes that, before even hearing the case he promised permission to appeal would be granted, if requested, whatever the outcome.	outcome	1
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	swift	1
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	promised	0
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	swift Court	1
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	Appeal	1
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	Court	0
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	hearing	1
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	comply	1
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	Thai	0
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	constraints	1
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	trial	0
+He also promised a swift Court of Appeal hearing to comply with Thai trial time constraints.	time	0
+"The stakes are very high for both sides", he added.	stakes	1
+"The stakes are very high for both sides", he added.	high	0
+"The stakes are very high for both sides", he added.	sides	0
+"The stakes are very high for both sides", he added.	added	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	common law	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	judgment	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	common	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	principles	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	law	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	judgement	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	reads	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	principles of natural justice	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	natural justice	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	natural	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	justice	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	fairness	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	trial	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	case	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	involves	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	life	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	fair	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	countervailing	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	powerful	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	countervailing issues	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	compel	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	issues	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	public	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	interest	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	intense	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	court	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	apply	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	anxious	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	level	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	anxious scrutiny	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	scrutiny	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	accused	1
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	facts	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	ensure	0
+"In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."	prejudiced	1
+Police sent several vehicles to the scene and 25 firefighters attended.	vehicles	1
+Police sent several vehicles to the scene and 25 firefighters attended.	Police	0
+Police sent several vehicles to the scene and 25 firefighters attended.	scene	1
+Police sent several vehicles to the scene and 25 firefighters attended.	firefighters	1
+Police sent several vehicles to the scene and 25 firefighters attended.	attended	1
+An air ambulance also responded.	ambulance	1
+An air ambulance also responded.	air	0
+An air ambulance also responded.	responded	1
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	cranes	1
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	Workers	0
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	toiled	1
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	toiled overnight	1
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	overnight	1
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	access	1
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	clear	0
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	road	0
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	Dover	0
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	London	0
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	Channel	0
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	Tunnel	0
+Workers with cranes toiled overnight to clear the road, which provides access to London as well as the Channel Tunnel and Port of Dover.	Port	0
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	fallen bridge sections	1
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	road	0
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	closed	0
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	week	0
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	collect	0
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	fallen	0
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	Highways England depots	1
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	bridge	0
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	sections	0
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	Highways	0
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	depots	1
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	England	0
+The road was again closed one week later to collect the fallen bridge sections, which were sent to Highways England depots for investigators.	investigators	1
+The collapse occurred on one of the busiest days of the year for the local road network.	collapse	1
+The collapse occurred on one of the busiest days of the year for the local road network.	occurred	1
+The collapse occurred on one of the busiest days of the year for the local road network.	busiest	1
+The collapse occurred on one of the busiest days of the year for the local road network.	local road network	1
+The collapse occurred on one of the busiest days of the year for the local road network.	days	0
+The collapse occurred on one of the busiest days of the year for the local road network.	year	0
+The collapse occurred on one of the busiest days of the year for the local road network.	local	0
+The collapse occurred on one of the busiest days of the year for the local road network.	road	0
+The collapse occurred on one of the busiest days of the year for the local road network.	network	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	Obamacare	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	Late-night	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	vote	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	sets	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	filibuster-free	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	filibuster-free repeal	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	repeal	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	Senate	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	Thursday	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	morning	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	United	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	States	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	repeal	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	voted	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	include	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	Affordable	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	Affordable Care Act	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	Obamacare	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	Care	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	Act	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	budget	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	part	0
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	budget blueprint	1
+Late-night vote sets Obamacare up for filibuster-free repeal At 1:30 a.m. on Thursday morning the United States Senate voted to include the repeal of the Affordable Care Act, better known as Obamacare, as part of a budget blueprint.	blueprint	1
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	procedural	1
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	procedural measure	1
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	repealed	1
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	measure	0
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	Obamacare	0
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	majority	1
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	simple	0
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	usual requirement	1
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	usual	0
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	requirement	0
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	effectively	1
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	senate	0
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	votes	0
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	filibuster	1
+This procedural measure allows most of Obamacare to be repealed by a simple majority rather than the usual requirement of 60 out of the senate's 100 votes and effectively prevents the use of filibuster.	prevents	0
+The hashtag "#BROTUS," a play on the acronym for President of the United States (POTUS), was a common sight on Twitter in 2016.	hashtag	1
+The hashtag "#BROTUS," a play on the acronym for President of the United States (POTUS), was a common sight on Twitter in 2016.	acronym	1
+The hashtag "#BROTUS," a play on the acronym for President of the United States (POTUS), was a common sight on Twitter in 2016.	play	0
+The hashtag "#BROTUS," a play on the acronym for President of the United States (POTUS), was a common sight on Twitter in 2016.	President	0
+The hashtag "#BROTUS," a play on the acronym for President of the United States (POTUS), was a common sight on Twitter in 2016.	sight	0
+The hashtag "#BROTUS," a play on the acronym for President of the United States (POTUS), was a common sight on Twitter in 2016.	United	0
+The hashtag "#BROTUS," a play on the acronym for President of the United States (POTUS), was a common sight on Twitter in 2016.	States	0
+The hashtag "#BROTUS," a play on the acronym for President of the United States (POTUS), was a common sight on Twitter in 2016.	POTUS	0
+The hashtag "#BROTUS," a play on the acronym for President of the United States (POTUS), was a common sight on Twitter in 2016.	common	0
+The hashtag "#BROTUS," a play on the acronym for President of the United States (POTUS), was a common sight on Twitter in 2016.	Twitter	0
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	Supreme	0
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	US	0
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	declares	1
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	Court	0
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	same-sex	1
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	legal	1
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	marriage	0
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	lared	1
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	marriage	0
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	same-sex	0
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	legal	1
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	US	0
+US Supreme Court declares same-sex marriage legal lared same-sex marriage legal in all fifty US states.	states	0
+More than 30 states already permitted gay marriage.	permitted	1
+More than 30 states already permitted gay marriage.	More	0
+More than 30 states already permitted gay marriage.	states	0
+More than 30 states already permitted gay marriage.	gay	1
+More than 30 states already permitted gay marriage.	gay marriage	1
+More than 30 states already permitted gay marriage.	marriage	0
+The Supreme Court ruled by a five-to-four vote that bans on same-sex marriage were not constitutional.	bans	1
+The Supreme Court ruled by a five-to-four vote that bans on same-sex marriage were not constitutional.	Supreme	0
+The Supreme Court ruled by a five-to-four vote that bans on same-sex marriage were not constitutional.	Court	0
+The Supreme Court ruled by a five-to-four vote that bans on same-sex marriage were not constitutional.	ruled	0
+The Supreme Court ruled by a five-to-four vote that bans on same-sex marriage were not constitutional.	five-to-four	0
+The Supreme Court ruled by a five-to-four vote that bans on same-sex marriage were not constitutional.	vote	0
+The Supreme Court ruled by a five-to-four vote that bans on same-sex marriage were not constitutional.	same-sex	1
+The Supreme Court ruled by a five-to-four vote that bans on same-sex marriage were not constitutional.	not constitutional	1
+The Supreme Court ruled by a five-to-four vote that bans on same-sex marriage were not constitutional.	marriage	0
+The Supreme Court ruled by a five-to-four vote that bans on same-sex marriage were not constitutional.	constitutional	1
+The majority decision was delivered by Justice Anthony Kennedy.	majority	1
+The majority decision was delivered by Justice Anthony Kennedy.	majority decision	1
+The majority decision was delivered by Justice Anthony Kennedy.	decision	1
+The majority decision was delivered by Justice Anthony Kennedy.	delivered	1
+The majority decision was delivered by Justice Anthony Kennedy.	Anthony Kennedy	0
+The majority decision was delivered by Justice Anthony Kennedy.	Justice	0
+The majority decision was delivered by Justice Anthony Kennedy.	Anthony	0
+The majority decision was delivered by Justice Anthony Kennedy.	Kennedy	0
+Same-sex marriage was banned in more than a dozen states.	banned	1
+Same-sex marriage was banned in more than a dozen states.	Same-sex	0
+Same-sex marriage was banned in more than a dozen states.	marriage	0
+Same-sex marriage was banned in more than a dozen states.	dozen	1
+Same-sex marriage was banned in more than a dozen states.	states	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Sotomayor	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Justices	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Ginsburg	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Kagan	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Breyer	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Kennedy	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	favour	1
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	voted	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Alito	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Justices	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Roberts	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Scalia	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	Thomas	0
+Justices Sotomayor, Ginsburg, Kagan, Breyer and Kennedy voted in favour while Justices Roberts, Alito, Scalia and Thomas voted against.	voted	0
+Kennedy's decision brought tears to the eyes of some lawyers in the courtroom.	decision	1
+Kennedy's decision brought tears to the eyes of some lawyers in the courtroom.	Kennedy	0
+Kennedy's decision brought tears to the eyes of some lawyers in the courtroom.	brought	0
+Kennedy's decision brought tears to the eyes of some lawyers in the courtroom.	lawyers	0
+Kennedy's decision brought tears to the eyes of some lawyers in the courtroom.	tears	0
+Kennedy's decision brought tears to the eyes of some lawyers in the courtroom.	eyes	0
+Kennedy's decision brought tears to the eyes of some lawyers in the courtroom.	courtroom	0
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	Antonin Scalia	1
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	However	0
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	Justice	0
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	Antonin	0
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	dissenting	1
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	Scalia	0
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	dissenting opinion	1
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	derided	1
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	opinion	0
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	majority	1
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	is couched	0
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	decision	0
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	opinion	0
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	couched	1
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	pretentious	1
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	style	0
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	content	1
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	content is egotistic	1
+However, Justice Antonin Scalia in his dissenting opinion derided the majority decision: "The opinion is couched in a style that is as pretentious as its content is egotistic.	egotistic	1
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	hunger strike	1
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	Adnan	0
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	began	0
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	hunger	0
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	protest	1
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	strike	0
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	administrative	1
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	administrative detention	1
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	detention	1
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	demanding	1
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	began	0
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	July	0
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	release	1
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	Israel	0
+Adnan began his hunger strike in protest of his administrative detention, which began last July, demanding Israel either release or charge him.	charge	1
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	Adnan	0
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	hunger	0
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	strike	0
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	refused	1
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	relied	1
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	medical	0
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	aid	0
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	sustenance	1
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	water	0
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	minerals	1
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	taking	0
+During his hunger strike, Adnan refused medical aid and relied only on water for sustenance, not taking any minerals or salts.	salts	0
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	threatened	1
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	Last	0
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	week	0
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	PIJ	0
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	cease-fire	1
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	end	0
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	custody	1
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	Israel	0
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	Adnan	0
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	die	0
+Last week, the PIJ threatened to end its cease-fire with Israel, should Adnan die under Israeli custody.	Israeli	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	Islamic Jihad	1
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	Ahmed	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	al-Aouri	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	PIJ	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	member	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	told	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	al-Araby	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	newspaper	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	Islamic	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	Khader Adnan	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	Jihad	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	Movement	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	Khader	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	bound	1
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	Adnan	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	leading	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	member	0
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	truce	1
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	truce agreement	1
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	harm	1
+Ahmed al-Aouri, a PIJ member, told al-Araby newspaper "the Islamic Jihad Movement — in which Khader Adnan is a leading member — will not be bound by any truce agreement if he comes to any harm."	agreement	0
+The PIJ is a militaristic Palestinian Jihad movement.	militaristic	1
+The PIJ is a militaristic Palestinian Jihad movement.	PIJ	0
+The PIJ is a militaristic Palestinian Jihad movement.	militaristic Palestinian Jihad movement	1
+The PIJ is a militaristic Palestinian Jihad movement.	Palestinian	1
+The PIJ is a militaristic Palestinian Jihad movement.	Palestinian Jihad	1
+The PIJ is a militaristic Palestinian Jihad movement.	Palestinian Jihad movement	0
+The PIJ is a militaristic Palestinian Jihad movement.	movement	0
+The PIJ is a militaristic Palestinian Jihad movement.	Jihad	0
+Adnan, 37, is an active member of the PIJ in the West Bank, and has been its spokesperson there.	PIJ in the West Bank	0
+Adnan, 37, is an active member of the PIJ in the West Bank, and has been its spokesperson there.	Adnan	0
+Adnan, 37, is an active member of the PIJ in the West Bank, and has been its spokesperson there.	active	0
+Adnan, 37, is an active member of the PIJ in the West Bank, and has been its spokesperson there.	member	0
+Adnan, 37, is an active member of the PIJ in the West Bank, and has been its spokesperson there.	PIJ	0
+Adnan, 37, is an active member of the PIJ in the West Bank, and has been its spokesperson there.	spokesperson	1
+Adnan, 37, is an active member of the PIJ in the West Bank, and has been its spokesperson there.	West	0
+Adnan, 37, is an active member of the PIJ in the West Bank, and has been its spokesperson there.	Bank	0
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	studymate	1
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	Nick	0
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	Bos	0
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	keeping	0
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	studies	0
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	lot	0
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	animals	0
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	beetles	1
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	butterflies	1
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	mantids	1
+Nick Bos: Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants.	ants	0
+We had the ants in an observation nest, and I could just look at them for hours, watching them go about.	observation	1
+We had the ants in an observation nest, and I could just look at them for hours, watching them go about.	ants	0
+We had the ants in an observation nest, and I could just look at them for hours, watching them go about.	observation nest	1
+We had the ants in an observation nest, and I could just look at them for hours, watching them go about.	nest	1
+We had the ants in an observation nest, and I could just look at them for hours, watching them go about.	go about	1
+We had the ants in an observation nest, and I could just look at them for hours, watching them go about.	hours	0
+We had the ants in an observation nest, and I could just look at them for hours, watching them go about.	watching	0
+This was in my third year of Biology study I think.	Biology	1
+This was in my third year of Biology study I think.	year	0
+This was in my third year of Biology study I think.	study	0
+After a while I needed to start thinking about an internship for my M.Sc.	internship	1
+After a while I needed to start thinking about an internship for my M.Sc.	needed	0
+After a while I needed to start thinking about an internship for my M.Sc.	start	0
+After a while I needed to start thinking about an internship for my M.Sc.	thinking	0
+After a while I needed to start thinking about an internship for my M.Sc.	M.Sc	1
+studies, and decided to write a couple of professors.	decided	1
+studies, and decided to write a couple of professors.	studies	0
+studies, and decided to write a couple of professors.	couple	1
+studies, and decided to write a couple of professors.	write	0
+studies, and decided to write a couple of professors.	professors	1
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	Social Evolution	1
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	ended	0
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	Centre	0
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	Social	0
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	Evolution	1
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	Copenhagen	1
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	University	0
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	project	1
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	supervision	1
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	learning	0
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	Ants	0
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	Patrizia	0
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre.	d'Ettorre	0
+I liked it so much there I ended up doing a PhD and I've been working on social insects ever since.	ended up	1
+I liked it so much there I ended up doing a PhD and I've been working on social insects ever since.	ended	0
+I liked it so much there I ended up doing a PhD and I've been working on social insects ever since.	PhD	1
+I liked it so much there I ended up doing a PhD and I've been working on social insects ever since.	social	1
+I liked it so much there I ended up doing a PhD and I've been working on social insects ever since.	've	0
+I liked it so much there I ended up doing a PhD and I've been working on social insects ever since.	working	0
+I liked it so much there I ended up doing a PhD and I've been working on social insects ever since.	social insects	1
+I liked it so much there I ended up doing a PhD and I've been working on social insects ever since.	insects	1
+Conley was asked about his son, Nate, by KPRC's Robert Arnold.	Conley	0
+Conley was asked about his son, Nate, by KPRC's Robert Arnold.	asked	0
+Conley was asked about his son, Nate, by KPRC's Robert Arnold.	son	0
+Conley was asked about his son, Nate, by KPRC's Robert Arnold.	Nate	0
+Conley was asked about his son, Nate, by KPRC's Robert Arnold.	KPRC	0
+Conley was asked about his son, Nate, by KPRC's Robert Arnold.	Robert	0
+Conley was asked about his son, Nate, by KPRC's Robert Arnold.	Arnold	0
+"I love Nate.	love	0
+"I love Nate.	Nate	0
+I love Nate to death," Conley replied.	replied	1
+I love Nate to death," Conley replied.	love	0
+I love Nate to death," Conley replied.	Nate	0
+I love Nate to death," Conley replied.	death	0
+I love Nate to death," Conley replied.	Conley	0
+"Nate didn't give me any respect because of what his mother was doing to me[...] She was cheating on me."	respect	1
+"Nate didn't give me any respect because of what his mother was doing to me[...] She was cheating on me."	Nate	0
+"Nate didn't give me any respect because of what his mother was doing to me[...] She was cheating on me."	n't	0
+"Nate didn't give me any respect because of what his mother was doing to me[...] She was cheating on me."	give	0
+"Nate didn't give me any respect because of what his mother was doing to me[...] She was cheating on me."	cheating	1
+"Nate didn't give me any respect because of what his mother was doing to me[...] She was cheating on me."	mother	0
+"Nate didn't give me any respect because of what his mother was doing to me[...] She was cheating on me."	cheating on me	1
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	instructed	1
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	Saying	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	lawyer	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	events	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	speak	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	following	1
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	Saturday	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	home	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	Conley	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	Jackson	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	growing up	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	children	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	growing	0
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	monsters	1
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	disrespectful	1
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	rude	1
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	rude in school	1
+Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.	school	0
+I'm not saying they're dead because of that.	'm	0
+I'm not saying they're dead because of that.	're	0
+I'm not saying they're dead because of that.	dead	0
+I'm not even saying I killed them."	killed	1
+I'm not even saying I killed them."	'm	0
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	disrespect	1
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	Conley	0
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	added	0
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	God	0
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	Bible	0
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	happened	1
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	mother	0
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	father	0
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	days	0
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	short	0
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	'm	0
+Conley added, "God says in the Bible do not disrespect your mother and father or your days will be short, but I'm not saying that's what happened."	's	0
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	violence	1
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	thought to have started	0
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	thought	0
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	brief	1
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	started	0
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	brief attempt	0
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	attempt	1
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	arrest	1
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	police	0
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	protest	1
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	protest leader	1
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	Hardik	1
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	leader	0
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	Hardik Patel	0
+The violence is thought to have started after a brief attempt by police to arrest protest leader Hardik Patel, 22 or 21.	Patel	0
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	protests	1
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	weeks	0
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	Patel caste	1
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	members	0
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	Patel	0
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	caste	1
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	involving	1
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	recent	0
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	an estimated	0
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	estimated	1
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	million	1
+There have been weeks of protests by members of the Patel caste, with the most recent involving an estimated half a million people.	people	0
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	Ahmedabad	1
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	closure	1
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	largest	0
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	city	0
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	state	0
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	transport	1
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	public	0
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	internet access	1
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	internet	0
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	access	0
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	businesses	0
+Ahmedabad, the largest city in the state, has seen the closure of public transport, internet access, schools, and businesses.	schools	0
+Ahmedabad is being patrolled by 400 military personnel.	Ahmedabad	1
+Ahmedabad is being patrolled by 400 military personnel.	patrolled	1
+Ahmedabad is being patrolled by 400 military personnel.	military personnel	1
+Ahmedabad is being patrolled by 400 military personnel.	military	0
+Ahmedabad is being patrolled by 400 military personnel.	personnel	1
+The national government has deployed several thousand paramilitary personnel to assist the state government.	national government	1
+The national government has deployed several thousand paramilitary personnel to assist the state government.	national	0
+The national government has deployed several thousand paramilitary personnel to assist the state government.	has deployed	0
+The national government has deployed several thousand paramilitary personnel to assist the state government.	government	0
+The national government has deployed several thousand paramilitary personnel to assist the state government.	deployed	1
+The national government has deployed several thousand paramilitary personnel to assist the state government.	paramilitary	1
+The national government has deployed several thousand paramilitary personnel to assist the state government.	paramilitary personnel	0
+The national government has deployed several thousand paramilitary personnel to assist the state government.	assist	1
+The national government has deployed several thousand paramilitary personnel to assist the state government.	personnel	0
+The national government has deployed several thousand paramilitary personnel to assist the state government.	government	0
+The national government has deployed several thousand paramilitary personnel to assist the state government.	state	0
+The Patel caste, who form up to a fifth of the state population, are generally seen as being affluent businesspeople.	Patel caste	0
+The Patel caste, who form up to a fifth of the state population, are generally seen as being affluent businesspeople.	Patel	0
+The Patel caste, who form up to a fifth of the state population, are generally seen as being affluent businesspeople.	caste	1
+The Patel caste, who form up to a fifth of the state population, are generally seen as being affluent businesspeople.	affluent	1
+The Patel caste, who form up to a fifth of the state population, are generally seen as being affluent businesspeople.	form	0
+The Patel caste, who form up to a fifth of the state population, are generally seen as being affluent businesspeople.	state	0
+The Patel caste, who form up to a fifth of the state population, are generally seen as being affluent businesspeople.	population	0
+The Patel caste, who form up to a fifth of the state population, are generally seen as being affluent businesspeople.	generally	0
+The Patel caste, who form up to a fifth of the state population, are generally seen as being affluent businesspeople.	affluent businesspeople	1
+The Patel caste, who form up to a fifth of the state population, are generally seen as being affluent businesspeople.	businesspeople	0
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	community	1
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	However	0
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	Other Backward Class	1
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	status	0
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	Other	0
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	Backward Class	0
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	Backward	0
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	eligibility	1
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	Class	0
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	result	0
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	reserved	1
+However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.	jobs	0
