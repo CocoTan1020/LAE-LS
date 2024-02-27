@@ -4,6 +4,7 @@
 The repository for **An LLM-Enhanced Adversarial Editing System for Lexical Simplification**
 
 If you find this code useful in your research, please cite:
+
 > @article{tan2024llm,
 >   title={An LLM-Enhanced Adversarial Editing System for Lexical Simplification},
 >   author={Tan, Keren and Luo, Kangyang and Lan, Yunshi and Yuan, Zheng and Shu, Jinlong},
