@@ -8,7 +8,7 @@ If you find this code useful in your research, please cite:
 >   title={An LLM-Enhanced Adversarial Editing System for Lexical Simplification},  
 >   author={Tan, Keren and Luo, Kangyang and Lan, Yunshi and Yuan, Zheng and Shu, Jinlong},  
 >   journal={arXiv preprint arXiv:2402.14704},  
->   year={2024} 
+>   year={2024}  
 > }
 
 ## Installation
